@@ -89,7 +89,7 @@ Make sure `.env` is in `.gitignore`.
 
 ## 🙋‍♂️ Built By
 
-Created by [Your Name] and team during [Hackathon Name]  
+Created by Yatharth Dahuja and team during CYFUTURE AI HACKATHON  
 Assisted by ChatGPT + Groq for prototyping
 
 ---
