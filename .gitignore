@@ -1,0 +1,17 @@
+# Python and virtualenv
+__pycache__/
+*.py[cod]
+.venv/
+env/
+
+# IDE-related
+.vscode/
+.mypy_cache/
+
+# Streamlit & OS
+.streamlit/
+*.log
+.DS_Store
+
+# Secrets
+.env
