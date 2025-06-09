@@ -41,3 +41,8 @@ wheels/
 
 # IDE-related
 .mypy_cache/
+
+# Specific ignores within 'app' directory
+app/__pycache__/
+app/routes/__pycache__/
+app/services/__pycache__/
